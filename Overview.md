@@ -20,6 +20,7 @@ Traditional neural networks learn patterns and relationships from data. PINNs on
 
 Solving Complex Equations: They are particularly useful in scenarios where the solution of complex differential equations is needed but difficult to obtain through traditional numerical methods.
 Engineering and Sciences: PINNs find applications in fluid dynamics, material science, climate modeling, and more.
+
 Healthcare: In medical imaging and modeling biological processes.
 
 ### 5. Challenges:
